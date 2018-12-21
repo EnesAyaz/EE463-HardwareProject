@@ -4,6 +4,6 @@ The repository includes simulations, reports, researchs and designs of DC Motor 
 
 To do 
 * Single Phase Thyristor Rectifier with resistive load, indcutive load and Motor simulation will be done.
-* Buck Boost Converter simulation will be done.
+* Buck Boost Converter simulation will be done. @tokgozfurkan
 * LC filter or C filter will be designed and simulated. 
 * Gate Driver and Controller will be chosen.
