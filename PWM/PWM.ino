@@ -1,5 +1,5 @@
-int potPin =  A1;
-int pwmPin = 11;
+int potPin =  A2;
+int pwmPin = 5;
 int ledPin= 13;
 
 void setup()
